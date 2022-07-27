@@ -40,3 +40,26 @@
 9. Provide deploy links or any other required links.
 
 ***
+
+### What are the elements of markdown language?
+
+1. **Headings**
+2. **Paragraphs**
+3. **Line Breaks**
+4. **Italics**
+5. **Bold**
+6. **Simultaneously Bold and Italic**
+7. **Striking Through**
+8. **Links**
+9. **Images**
+10. **Unordered Lists**
+11. **Ordered Lists**
+12. **Blockquotes**
+13. **Horizontal Rules**
+14. **Code Snippets**
+15. **Code Blocks**
+16. **Escaping**
+17. **Lists Within a Blockquote**
+18. **Quotes**
+
+***
